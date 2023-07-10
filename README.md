@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Embedded System 
+- 🌱 I’m currently learning STM32,MIT 6.824
+- 👯 I’m looking to collaborate on Embedded System
+- 🤔 I’m looking for help with Feture
+- 💬 Ask me about meaning of life
+- 📫 How to reach me: yuan140457@gmail.com
+- 😄 Pronouns: nullptr
 <!--
 **XiaChuerwu/XiaChuerwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
