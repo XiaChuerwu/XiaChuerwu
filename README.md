@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Embedded System
 - 🤔 I’m looking for help with Feture
 - 💬 Ask me about meaning of life
-- 📫 How to reach me: yuan140457@gmail.com
+- 📫 How to reach me: du4nyue@gmail.com
 - 😄 Pronouns: nullptr
 <!--
 **XiaChuerwu/XiaChuerwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
