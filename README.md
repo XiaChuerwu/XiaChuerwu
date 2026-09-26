@@ -1,22 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently working on Embedded System 
-- 🌱 I’m currently learning STM32,MIT 6.824
-- 👯 I’m looking to collaborate on Embedded System
-- 🤔 I’m looking for help with Feture
-- 💬 Ask me about meaning of life
-- 📫 How to reach me: du4nyue@gmail.com
-- 😄 Pronouns: nullptr
-<!--
-**XiaChuerwu/XiaChuerwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm XiaChuerwu 👋
 
-Here are some ideas to get you started:
+I'm an Embedded Software Engineer working with C/C++ and Linux.
+Currently exploring AI and AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Core technologies:** C / C++ / Linux
+- **Current interests:** AI and agent development
+- **Contact:** [du4nyue@gmail.com](mailto:du4nyue@gmail.com)
